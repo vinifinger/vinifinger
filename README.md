@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Vinicius M. Finger</h1>
-<h3 align="center">Eu sou um desenvolvedor back-end de Porto Alegre</h3>
+<h3 align="center">Eu sou um Software Developer de Porto Alegre</h3>
 
-- 🔭 Atualmente estou trabalhando na [Zenvia](https://www.zenvia.com)
+- 🔭 Atualmente estou trabalhando na [ADP Brazil Labs](https://tech.adp.com/careers/locations/brazil/)
 
 - 🌱 Atualmente estou aprendendo **React e React Native**
 
